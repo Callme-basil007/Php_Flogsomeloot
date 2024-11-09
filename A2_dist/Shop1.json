@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "name": "Small Potion of Health",
+        "description": "Adult dosage: 2 tbsp every 4-6 hours.  Do not exceed 4 doses in 24 hours.",
+        "price": 30,
+        "quantity": 3
+    },
+    {
+        "id": 1,
+        "name": "Copper Dagger",
+        "description": "Every shop's got to have one, right?",
+        "price": 34,
+        "quantity": 5
+    },
+    {
+        "id": 2,
+        "name": "Leather Armour",
+        "description": "Genuine Italian Leather.  (Made from cows, not Italians.)",
+        "price": 84,
+        "quantity": 3
+    }
+]

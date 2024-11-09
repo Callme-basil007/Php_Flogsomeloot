@@ -1,0 +1,37 @@
+[
+    {
+        "id": 4,
+        "name": "Mithril Letter Opener",
+        "description": "Will never lose sharpness, not even on junk mail from Mordor.",
+        "price": 1080,
+        "quantity": 4
+    },
+    {
+        "id": 5,
+        "name": "Mithril Salad Tongs",
+        "description": "Specially designed for digging too greedily and too deep.",
+        "price": 2320,
+        "quantity": 15
+    },
+    {
+        "id": 6,
+        "name": "Mithril Tuning Fork",
+        "description": "Calibrated to 1.15Hz. Only audible to Balrogs",
+        "price": 1490,
+        "quantity": 2
+    },
+    {
+        "id": 7,
+        "name": "Necklace Made of Human Teeth",
+        "description": "Maybe this goblin is a dentist...",
+        "price": 10,
+        "quantity": 1
+    },
+    {
+        "id": 8,
+        "name": "Seeds of Destruction",
+        "description": "Good producing cultivar.  Plant in location with full exposure to loneliness and despair. Destruction pods will be ready to harvest in 70-80 days. <script>alert('Did you sanitize your file inputs squire?')<\/script>",
+        "price": 300,
+        "quantity": 1
+    }
+]

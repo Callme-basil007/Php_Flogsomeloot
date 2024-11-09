@@ -1,0 +1,4 @@
+[ { "id" : 4, "name" : "Mithril Letter Opener", "description" : "Will never lose sharpness, not even on junk mail from Mordor.", "price" : 1080, "quantity" : 4 }
+, { "id" : 5, "name" : "Mithril Salad Tongs", "description" : "Specially designed for digging too greedily and too deep.", "price" : 2320, "quantity" : 15 }
+, { "id" : 6, "name" : "Mithril Tuning Fork", "description" : "Calibrated to 1.15Hz. Only audible to Balrogs", "price" : 1490, "quantity" : 2 }
+]
